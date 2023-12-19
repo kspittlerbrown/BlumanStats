@@ -1,7 +1,7 @@
 \name{outlier_Q1_Q3}
 \alias{outlier_Q1_Q3}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{outlier_Q1_Q3
 %%  ~~function to do ... ~~
 }
 \description{
