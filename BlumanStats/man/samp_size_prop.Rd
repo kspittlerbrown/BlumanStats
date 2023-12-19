@@ -1,7 +1,7 @@
 \name{samp_size_prop}
 \alias{samp_size_prop}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{samp_size_prop
 %%  ~~function to do ... ~~
 }
 \description{
