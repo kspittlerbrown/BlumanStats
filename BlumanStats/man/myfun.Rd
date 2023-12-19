@@ -1,7 +1,7 @@
 \name{myfun}
 \alias{myfun}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{myfun
 %%  ~~function to do ... ~~
 }
 \description{
