@@ -1,7 +1,7 @@
 \name{one_pop_prop_test}
 \alias{one_pop_prop_test}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{one_pop_prop_test
 %%  ~~function to do ... ~~
 }
 \description{
