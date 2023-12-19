@@ -1,7 +1,7 @@
 \name{percentile}
 \alias{percentile}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{percentile
 %%  ~~function to do ... ~~
 }
 \description{
