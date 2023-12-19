@@ -1,7 +1,7 @@
 \name{midrange}
 \alias{midrange}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{midrange
 %%  ~~function to do ... ~~
 }
 \description{
