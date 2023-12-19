@@ -1,7 +1,7 @@
 \name{sd.p}
 \alias{sd.p}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{sd.p
 %%  ~~function to do ... ~~
 }
 \description{
