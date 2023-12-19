@@ -1,7 +1,7 @@
 \name{sign_rank_test}
 \alias{sign_rank_test}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{ sign_rank_test
 %%  ~~function to do ... ~~
 }
 \description{
