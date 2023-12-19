@@ -2,7 +2,7 @@
 \alias{BlumanStats-package}
 \alias{BlumanStats}
 \docType{package}
-\title{
+\title{ BlumanStats-package
 \packageTitle{BlumanStats}
 }
 \description{
