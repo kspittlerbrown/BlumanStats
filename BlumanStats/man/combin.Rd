@@ -1,7 +1,7 @@
 \name{combin}
 \alias{combin}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{combin
 %%  ~~function to do ... ~~
 }
 \description{
