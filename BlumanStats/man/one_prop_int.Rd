@@ -1,7 +1,7 @@
 \name{one_prop_int}
 \alias{one_prop_int}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{one_prop_int
 %%  ~~function to do ... ~~
 }
 \description{
