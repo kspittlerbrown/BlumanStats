@@ -1,7 +1,7 @@
 \name{rank_sum}
 \alias{rank_sum}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{rank_sum
 %%  ~~function to do ... ~~
 }
 \description{
