@@ -1,7 +1,7 @@
 \name{var.p}
 \alias{var.p}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{var.p
 %%  ~~function to do ... ~~
 }
 \description{
