@@ -1,7 +1,7 @@
 \name{samp_size_mean}
 \alias{samp_size_mean}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{samp_size_mean
 %%  ~~function to do ... ~~
 }
 \description{
