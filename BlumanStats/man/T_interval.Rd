@@ -1,7 +1,7 @@
 \name{T_interval}
 \alias{T_interval}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{ nonempty
+\title{ T_int
 %%  ~~function to do ... ~~
 }
 \description{
