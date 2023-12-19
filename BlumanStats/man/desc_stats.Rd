@@ -1,7 +1,7 @@
 \name{desc_stats}
 \alias{desc_stats}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{desc_stats
 %%  ~~function to do ... ~~
 }
 \description{
