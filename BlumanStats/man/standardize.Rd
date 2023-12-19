@@ -1,7 +1,7 @@
 \name{standardize}
 \alias{standardize}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{standardize
 %%  ~~function to do ... ~~
 }
 \description{
