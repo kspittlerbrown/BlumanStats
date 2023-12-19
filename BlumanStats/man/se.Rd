@@ -1,7 +1,7 @@
 \name{se}
 \alias{se}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{ se
 %%  ~~function to do ... ~~
 }
 \description{
