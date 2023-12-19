@@ -1,7 +1,7 @@
 \name{cv}
 \alias{cv}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{ cv
 %%  ~~function to do ... ~~
 }
 \description{
