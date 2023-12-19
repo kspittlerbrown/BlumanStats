@@ -1,7 +1,7 @@
 \name{T_test}
 \alias{T_test}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{ T_test
 %%  ~~function to do ... ~~
 }
 \description{
