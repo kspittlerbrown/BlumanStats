@@ -1,7 +1,7 @@
 \name{Two_Samp_Prop_Interval}
 \alias{Two_Samp_Prop_Interval}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{ Two_Samp_Prop_I
 %%  ~~function to do ... ~~
 }
 \description{
