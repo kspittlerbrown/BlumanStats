@@ -1,0 +1,9 @@
+export("Bluman_Q1_Q3", "combin", "critical_t", "critical_z", "cv",
+       "desc_stats", "midrange", "mode", "myfun", "one_pop_prop_test",
+       "one_prop_int", "outlier_Q1_Q3", "outlier_range", "percentile",
+       "percentile_rank", "permut", "range", "rank_sum",
+       "samp_size_mean", "samp_size_prop", "sd.p", "se",
+       "sign_rank_test", "sign_test", "standardize", "T_interval",
+       "T_test", "Two_Samp_Prop_Interval", "Two_Samp_T_Interval",
+       "Two_Samp_TTest", "Two_Samp_Z_Interval", "Two_Samp_ZTest",
+       "var.p", "z_interval", "z_test")
