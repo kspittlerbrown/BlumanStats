@@ -1,7 +1,7 @@
 \name{range}
 \alias{range}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{range
 %%  ~~function to do ... ~~
 }
 \description{
