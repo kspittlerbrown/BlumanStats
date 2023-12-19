@@ -1,7 +1,7 @@
 \name{outlier_range}
 \alias{outlier_range}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{outlier_range
 %%  ~~function to do ... ~~
 }
 \description{
