@@ -1,7 +1,7 @@
 \name{critical_t}
 \alias{critical_t}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{critical
 %%  ~~function to do ... ~~
 }
 \description{
