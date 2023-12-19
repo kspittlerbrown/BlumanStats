@@ -1,7 +1,7 @@
 \name{z_interval}
 \alias{z_interval}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{ Z_interval
 %%  ~~function to do ... ~~
 }
 \description{
