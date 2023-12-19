@@ -1,7 +1,7 @@
 \name{percentile_rank}
 \alias{percentile_rank}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{percentile_rank
 %%  ~~function to do ... ~~
 }
 \description{
