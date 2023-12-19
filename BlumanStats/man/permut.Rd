@@ -1,7 +1,7 @@
 \name{permut}
 \alias{permut}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{permut
 %%  ~~function to do ... ~~
 }
 \description{
