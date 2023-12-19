@@ -1,4 +1,6 @@
-Bluman_Q1_Q3 <-function(data) {
+Bluman_Q1_Q3 <-
+function(data) 
+{
 
   # Sort the data in ascending order
   sorted_data <- sort(data)
