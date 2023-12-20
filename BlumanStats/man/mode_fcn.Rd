@@ -1,5 +1,5 @@
-\name{mode}
-\alias{mode}
+\name{mode_fcn}
+\alias{mode_fcn}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{mode_fcn
 %%  ~~function to do ... ~~
