@@ -1,4 +1,4 @@
-mode <-
+mode_fcn <-
 function(data) {
   unique_values <- unique(data)
   counts <- table(match(data, unique_values))
