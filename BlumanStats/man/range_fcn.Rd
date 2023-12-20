@@ -1,5 +1,5 @@
-\name{range}
-\alias{range}
+\name{range_fcn}
+\alias{range_fcn}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{range_fcn
 %%  ~~function to do ... ~~
@@ -49,7 +49,7 @@ range(data)
 ## The function is currently defined as
 function (data) 
 {
-    range <- max(data) - min(data)
+    range_fnc <- max(data) - min(data)
     return(range)
   }
 }
